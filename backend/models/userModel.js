@@ -28,3 +28,5 @@ const userSchema = new mongoose.Schema({
      
     
 },{timeStamps:true})
+
+export default userSchema;
